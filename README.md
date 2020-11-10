@@ -1,16 +1,3 @@
-# covid_19_tracker_app
+## COVID-19 Update
 
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+COVID-19 Update application is an android application that extracts data like total affected, total deaths, deaths today all over the world using open source REST API. It also shows separate overview of data in each of the affected countries, most affected countries, vaccine research advancements in details, FAQ’s regarding COVID-19 and coronavirus as well as information about what to do to stay healthy, launches URL on user’s browser linking WHO donation website and Myth Busters segment.

@@ -4,7 +4,7 @@ The Application Cossists of A Homepage/landing page where user will see a worldw
 
 ## Homepage
 
-![Screenshot_2021_0207_230219](https://user-images.githubusercontent.com/25270629/107153750-59a79600-6999-11eb-9d3a-59b4da7cd80a.jpg)
+![Screenshot_2021_0207_230219](https://user-images.githubusercontent.com/25270629/107153750-59a79600-6999-11eb-9d3a-59b4da7cd80a.jpg = 250x250)
 
 
 

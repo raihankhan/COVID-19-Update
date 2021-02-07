@@ -8,22 +8,16 @@ The Application Cossists of A Homepage/landing page where user will see a worldw
 
 ## 200+ Country Based Data
 
-![image](https://user-images.githubusercontent.com/25270629/107153791-8bb8f800-6999-11eb-8480-cadf59e981ab.png)
-
-
+<img src="https://user-images.githubusercontent.com/25270629/107153791-8bb8f800-6999-11eb-8480-cadf59e981ab.png" width=50% height=50% >
 
 ## 5 Major Vaccine Info
 
-![image](https://user-images.githubusercontent.com/25270629/107153818-b60ab580-6999-11eb-829b-73736281690a.png)
-
+<img src="https://user-images.githubusercontent.com/25270629/107153818-b60ab580-6999-11eb-829b-73736281690a.png" width=50% height=50% >
 
 
 ## FAQ section
 
-![image](https://user-images.githubusercontent.com/25270629/107153871-02ee8c00-699a-11eb-87f9-c1633c790c84.png)
-
-
-
+<img src="https://user-images.githubusercontent.com/25270629/107153871-02ee8c00-699a-11eb-87f9-c1633c790c84.png" width=50% height=50% >
 
 ## WHO responseFund and MythBusters Link opens in browser
 
@@ -32,4 +26,4 @@ The Application Cossists of A Homepage/landing page where user will see a worldw
 
 ## Developers Info
 
-![image](https://user-images.githubusercontent.com/25270629/107153906-33cec100-699a-11eb-907d-4f3eee952824.png)
+<img src="https://user-images.githubusercontent.com/25270629/107153906-33cec100-699a-11eb-907d-4f3eee952824.png" width=50% height=50% >

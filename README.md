@@ -21,8 +21,7 @@ The Application Cossists of A Homepage/landing page where user will see a worldw
 
 ## WHO responseFund and MythBusters Link opens in browser
 
-![image](https://user-images.githubusercontent.com/25270629/107153884-18fc4c80-699a-11eb-8667-cb67848a4a5c.png)
-![image](https://user-images.githubusercontent.com/25270629/107153893-2285b480-699a-11eb-8feb-bd7e59768152.png)
+![image](https://user-images.githubusercontent.com/25270629/107153884-18fc4c80-699a-11eb-8667-cb67848a4a5c.png) ![image](https://user-images.githubusercontent.com/25270629/107153893-2285b480-699a-11eb-8feb-bd7e59768152.png)
 
 ## Developers Info
 
